@@ -107,33 +107,24 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I highly recommend Miguel. He's not only respectful and honest but also dedicated to his work. His consistent growth is truly impressive!",
+    name: "Adrian Hajdin",
+    title: "Founder & CEO at JS Mastery",
+    img: "/Adrian.svg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I'm pleased to recommend Miguel. He's a strong presence and his commitment to learning is truly inspiring. His dedication to excellence shines through in his work, and he is a valuable asset to any team.",
+    name: "Mateo Sindičić",
+    title: "Software Engineering Lead / Mentor",
+    img: "/mateo.jpeg",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Miguel has demonstrated that there is no upper limit to his capacity for learning. I've witnessed his tremendous contributions to the team and his unwavering dedication. His positive attitude, eagerness for growth, and receptiveness to feedback make him an absolute pleasure to work with and an excellent addition to any team.",
+    name: "Ben Pham",
+    title: "Software Engineer",
+    img: "/ben.png",
   },
 ];
 
