@@ -14,7 +14,7 @@ export default function Approach() {
         <Card
           title="Planning & Strategy"
           icon={<AceternityIcon order="Phase 1" />}
-          description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements."
+          description="We'll collaborate to map out your website's goals and functionalities. We'll discuss things like site structure, navigation, and your requirements."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -24,7 +24,7 @@ export default function Approach() {
         <Card
           title="Development & Progress Update"
           icon={<AceternityIcon order="Phase 2" />}
-          description="Once we agree on the plan, I cue my lofi playlist and dive into coding. From initial sketches to polished code, I keep you updated every step of the way."
+          description="Once we agree on the plan, I dive into coding. From initial sketches to polished code, I can keep you updated every step of the way."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -39,7 +39,7 @@ export default function Approach() {
         <Card
           title="Development & Launch"
           icon={<AceternityIcon order="Phase 3" />}
-          description="This is where the magic happens! Based on the approved design, I'll translate everything into functional code, building your website from the ground up."
+          description="Finally, I'll translate everything into functional code, building your website from the ground up."
         >
           <CanvasRevealEffect
             animationSpeed={3}
