@@ -1,6 +1,7 @@
 import { projects } from "@/data";
 import { PinContainer } from "./ui/3d-pin";
 import { FaLocationArrow } from "react-icons/fa";
+import Link from "next/link";
 
 export default function RecentProjects() {
   return (
@@ -44,9 +45,11 @@ export default function RecentProjects() {
                 </div>
 
                 <div className="flex justify-center items-center">
-                  <p className="flex lg:text-xl md:text-xs text-purple">
-                    Check Live site
-                  </p>
+                  <Link href={link} target="_blank">
+                    <p className="flex lg:text-xl md:text-xs text-purple">
+                      Check Live site
+                    </p>
+                  </Link>
                   <FaLocationArrow className="ms-3" color="#CBACF9" />
                 </div>
               </div>

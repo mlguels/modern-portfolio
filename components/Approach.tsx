@@ -24,7 +24,7 @@ export default function Approach() {
         <Card
           title="Development & Progress Update"
           icon={<AceternityIcon order="Phase 2" />}
-          description="Once we agree on the plan, I dive into coding. From initial sketches to polished code, I can keep you updated every step of the way."
+          description="Once we have agreed on the plan, I will begin coding your website. From the initial sketches to the polished code, I will keep you updated on the progress every step of the way. This transparent approach ensures that you are involved throughout the development process and can provide feedback as needed."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -39,7 +39,7 @@ export default function Approach() {
         <Card
           title="Development & Launch"
           icon={<AceternityIcon order="Phase 3" />}
-          description="Finally, I'll translate everything into functional code, building your website from the ground up."
+          description="In this final phase, I'll translate our plans into functional code, building your website from the ground up. With meticulous attention to detail, I'll ensure that every aspect of the design and functionality is implemented effectively. Once development is complete, we'll prepare for the launch of your website, ensuring a seamless transition to the online environment."
         >
           <CanvasRevealEffect
             animationSpeed={3}
