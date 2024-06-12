@@ -77,7 +77,7 @@ export const projects = [
     des: "Built 'Out of the Darkness' podcast website with Next.js, showcasing episode details, guest bios, and a prayer submission form for streamlined user engagement.",
     img: "/podcast.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-    link: "https://calledoutofdarkness-podcast.vercel.app/",
+    link: "https://www.calledoutofdarkness.faith/",
   },
   {
     id: 2,
